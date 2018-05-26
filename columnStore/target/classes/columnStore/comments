@@ -1,0 +1,4 @@
+to connect to sql:
+download mysql-connector-java-5.1.46.jar
+in your project : right click->build_path->configure build_path->libraries->add external jars
+
